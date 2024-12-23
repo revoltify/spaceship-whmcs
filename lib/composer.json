@@ -1,0 +1,5 @@
+{
+    "require": {
+        "revoltify/spaceship-php": "^1.0"
+    }
+}
